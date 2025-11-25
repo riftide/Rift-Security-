@@ -37,6 +37,3 @@ All intellectual property rights relating to Rift — including its code, logo, 
 These Terms shall be governed and interpreted in accordance with the laws of Your jurisdiction, without regard to conflict of law provisions. Should a dispute arise, both parties agree to attempt good-faith resolution before seeking legal remedies. Your use of the Bot signifies agreement to this process.
 
 Thank you for choosing RIFT!
-"""
-
-print(rift_tos)
